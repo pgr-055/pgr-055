@@ -1,0 +1,11 @@
+Job ID: 494782
+Cluster: cuttlefish
+User/Group: pjg5318/pjg5318
+State: FAILED (exit code 1)
+Nodes: 1
+Cores per node: 2
+CPU Utilized: 00:00:27
+CPU Efficiency: 51.92% of 00:00:52 core-walltime
+Job Wall-clock time: 00:00:26
+Memory Utilized: 2.74 MB
+Memory Efficiency: 0.01% of 32.00 GB

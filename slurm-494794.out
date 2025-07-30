@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/storage/cms/wangyy_lab/pjg5318/nanobody_design/utils/relax_nb.py", line 8, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+srun: error: node1: task 0: Exited with exit code 1

@@ -1,0 +1,11 @@
+Job ID: 494793
+Cluster: cuttlefish
+User/Group: pjg5318/pjg5318
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 2
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 00:00:00 core-walltime
+Job Wall-clock time: 00:00:00
+Memory Utilized: 3.02 MB
+Memory Efficiency: 0.10% of 3.00 GB
